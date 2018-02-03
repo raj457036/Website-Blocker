@@ -31,7 +31,8 @@ This is website blocker that can block the website for certain time range to boo
   -Then Enter the Time range for which block websites in the format of
   '13 30 15 25' for blocking From 13:30 PM till 15:25 PM
   
-  #To Reset Blocker and Unblock all websites
+  ### Troublshoot
+  #### To Reset Blocker and Unblock all websites
   run the program and do not enter any time range
 
     >Website Blocker 1.0
