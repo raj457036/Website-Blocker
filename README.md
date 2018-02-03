@@ -11,8 +11,10 @@ This is website blocker that can block the website for certain time range to boo
   ### Example:
   sitelist.txt
  
-   >www.facebook.com \n
-   >www.twitter.com \n
+   >www.facebook.com 
+   
+   >www.twitter.com 
+   
    >www.google.com
   
   ### For Mac or Linux
