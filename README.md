@@ -8,7 +8,7 @@ This is website blocker that can block the website for certain time range to boo
   -First copy all the files to a folder
   -Open sitelist.txt
   -Enter all the websites you want to block
-  ####Example:
+  ###Example:
   sitelist.txt
   '''sh
   www.facebook.com
@@ -16,14 +16,14 @@ This is website blocker that can block the website for certain time range to boo
   www.google.com
   '''
   
-  ####For Mac or Linux
+  ###For Mac or Linux
   -Open Terminal(Linux or Mac) on the blocker folder
   -and Type
   '''sh
-  sudo python3 blocker.py
+    sudo python3 blocker.py
   '''
   
-  ####For Windows
+  ###For Windows
   - Right click on run.bat 
   - Click Run as Administrator
   
